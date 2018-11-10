@@ -1,0 +1,14 @@
+C:\Users\Omar M. Fathy\Documents\ON-OFF Parallel Control\ON-OFF Parallel Control\bin\Debug\ON-OFF Parallel Control.exe.config
+C:\Users\Omar M. Fathy\Documents\ON-OFF Parallel Control\ON-OFF Parallel Control\bin\Debug\ON-OFF Parallel Control.exe
+C:\Users\Omar M. Fathy\Documents\ON-OFF Parallel Control\ON-OFF Parallel Control\bin\Debug\ON-OFF Parallel Control.pdb
+C:\Users\Omar M. Fathy\Documents\ON-OFF Parallel Control\ON-OFF Parallel Control\bin\Debug\MetroFramework.Design.dll
+C:\Users\Omar M. Fathy\Documents\ON-OFF Parallel Control\ON-OFF Parallel Control\bin\Debug\MetroFramework.dll
+C:\Users\Omar M. Fathy\Documents\ON-OFF Parallel Control\ON-OFF Parallel Control\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Omar M. Fathy\Documents\ON-OFF Parallel Control\ON-OFF Parallel Control\obj\Debug\ON-OFF Parallel Control.csprojAssemblyReference.cache
+C:\Users\Omar M. Fathy\Documents\ON-OFF Parallel Control\ON-OFF Parallel Control\obj\Debug\ON_OFF_Parallel_Control.Form1.resources
+C:\Users\Omar M. Fathy\Documents\ON-OFF Parallel Control\ON-OFF Parallel Control\obj\Debug\ON_OFF_Parallel_Control.Properties.Resources.resources
+C:\Users\Omar M. Fathy\Documents\ON-OFF Parallel Control\ON-OFF Parallel Control\obj\Debug\ON-OFF Parallel Control.csproj.GenerateResource.cache
+C:\Users\Omar M. Fathy\Documents\ON-OFF Parallel Control\ON-OFF Parallel Control\obj\Debug\ON-OFF Parallel Control.csproj.CoreCompileInputs.cache
+C:\Users\Omar M. Fathy\Documents\ON-OFF Parallel Control\ON-OFF Parallel Control\obj\Debug\ON-OFF Parallel Control.csproj.CopyComplete
+C:\Users\Omar M. Fathy\Documents\ON-OFF Parallel Control\ON-OFF Parallel Control\obj\Debug\ON-OFF Parallel Control.exe
+C:\Users\Omar M. Fathy\Documents\ON-OFF Parallel Control\ON-OFF Parallel Control\obj\Debug\ON-OFF Parallel Control.pdb
